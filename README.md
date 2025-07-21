@@ -1,4 +1,4 @@
-<h1 align="center">🧠 AnimaCore – Human OS</h1>
+<br><h1 align="center">🧠 AnimaCore – Human OS</h1><br>
 <h5 align="center">A Neuro-AI Framework that thinks, feels, and responds like us</h5>
 
 <p align="center" style="color: #555; font-size: 16px;">
@@ -31,10 +31,9 @@
   🧬 Built to mirror human empathy and thought – from perception to action.
 </p>
 
+---
 
-<br>
-
-<h2>📖 Table of Contents</h2>
+<br><h2 alogn = "centre">📖 Table of Contents</h2><br>
 
 
 - 🧠 [Project Overview](#-project-overview)
@@ -53,11 +52,7 @@
 
 ---
 
-<br>
-
-
-
-<h2 align="center">🧠 Project Overview</h2>
+<br><h2 align="center">🧠 Project Overview</h2><br>
 
 <p align="center">
   <strong>AnimaCore HumanOS</strong> is a neuro-symbolic AI core built to simulate human-like cognition and emotional intelligence.
@@ -76,10 +71,11 @@
   <em>It’s not just code — it’s cognition, reimagined.</em>
 </p>
 
-<hr>
 
 ---
-<h2 align="center">🎯 Core Objectives</h2>
+
+
+<br><h2 align="center">🎯 Core Objectives</h2><br>
 
 <p align="center">
   AnimaCore HumanOS isn’t just about automation — it’s about <strong>emulation</strong>. These core goals drive its mission to replicate the essence of human cognition:
@@ -97,7 +93,8 @@
 </p>
 
 ---
-<h2 align="center">🧬 Biological Inspiration</h2>
+
+<br><h2 align="center">🧬 Biological Inspiration</h2><br>
 
 <p align="center">
   <strong>AnimaCore</strong> isn't just built — it's <em>neuro-inspired</em>. Its architecture mimics key regions of the human brain responsible for memory, emotions, and rational behavior.
@@ -107,7 +104,7 @@
   🧠 <strong>Think like a brain. Act like a mind.</strong>
 </p>
 
-<table align="center">
+<br><table align="center">
   <thead>
     <tr>
       <th>🧪 Brain Region</th>
@@ -139,6 +136,7 @@
 </p>
 
 ---
+
 <br><h2 align="center">🛠️ System Architecture</h2><br>
 
 <p align="center"><em>AnimaCore mimics the brain’s cognitive flow — from understanding language to emotional reasoning and intelligent response.</em></p>
@@ -155,9 +153,7 @@
 
 </div>
 
----
-
-<p align="center">
+<br><p align="center">
   <img src="https://img.shields.io/badge/Architecture-BioInspired-7b2cbf?style=flat-square&logo=brains&logoColor=white" alt="Bio-inspired Architecture Badge" />
 </p>
 
@@ -205,7 +201,7 @@
   <strong>100%</strong> on the validation set — no misclassification, even on semantically close actions.
 
 ---
-<br><h3 align="center">📉 Training Loss Progression</h3><br>
+<br><h3>🔷 Training Loss Progression</h3><br>
 
 <div align="center">
 
@@ -247,7 +243,7 @@
   <img src="confusion matrix.png" alt="Confusion Matrix" width="75%">
 </p>
 
-<p align="center"><i>Each action was recognized with surgical precision — no confusion, no overlaps.</i></p>
+<br><p align="center"><i>Each action was recognized with surgical precision — no confusion, no overlaps.</i></p><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model%20Accuracy-100%25-brightgreen?style=flat-square" alt="Accuracy Badge" />
@@ -265,7 +261,8 @@
 
 ---
 
-## ⚙️ Setup & Installation
+<br><h2 align="center">⚙️ Setup & Installation</h2><br>
+
 
 
 ```bash
@@ -345,7 +342,7 @@ Thought: Responding wisely.
 
 
 ---
-<h2 align="center">🙏 Acknowledgments</h2>
+<br><h2 align="center">🙏 Acknowledgments</h2><br>
 
 <p align="center">
   This project was shaped by the collective brilliance of:
@@ -367,23 +364,23 @@ Thought: Responding wisely.
 
  ---
 <br>
-<h2 align="center">💼 Libraries & Tools</h2>
+<h2 align="center">💼 Libraries & Tools</h2><br>
 
-AnimaCore is powered by a robust AI ecosystem — trusted, scalable, and research-ready.
+<p align="center">AnimaCore is powered by a robust AI ecosystem — trusted, scalable, and research-ready.</p>
 
-<p align="center">
+<br><p align="center">
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-Framework-red?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Handling-blue?style=flat-square&logo=pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Evaluation-orange?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-Numerical%20Ops-informational?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Plotting-green?style=flat-square&logo=matplotlib" />
-</p>
+</p><br
 
-> 🧠 Every library was handpicked for stability, flexibility, and deep integration with modern ML pipelines.
+> 🧠 Every library in AnimaCore was carefully chosen for its role — from language encoding to emotional inference and decision prediction.<br>
+  🔗 Together, they enable a seamless pipeline that mirrors human cognition with modern machine learning precision.
 
 
----
 <br><h2 align="center">🤝 Contact & Contribution</h2><br>
 
 <p align="center">
