@@ -21,7 +21,6 @@
 <h4 align="center">📄 Project Info</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=flat&logo=open-source-initiative&logoColor=white" alt="License Badge" />
   <img src="https://img.shields.io/github/last-commit/hamaylzahid/AnimaCore-HumanOS?style=flat&color=orange&logo=github" alt="Last Commit Badge" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat&logo=vercel&logoColor=white" alt="Status Badge" />
 </p>
@@ -141,15 +140,19 @@
 
 <p align="center"><em>AnimaCore mimics the brain’s cognitive flow — from understanding language to emotional reasoning and intelligent response.</em></p>
 
-<div align="center">
+<!-- 🧠 Visual Architecture Blueprint -->
+<p align="center">
+  <img src="anima_system_architecture.png" alt="AnimaCore Cognitive Architecture" width="85%">
+</p>
 
-<ul align="left">
-  <li>🧾 <strong>Input Layer</strong> – Tokenizes and embeds natural language using <code>bert-tiny</code>.</li>
-  <li>🧠 <strong>Transformer Encoder</strong> – Extracts contextual representations via pre-trained BERT embeddings.</li>
-  <li>💡 <strong>Emotion Reactor</strong> – Simulates emotional states based on encoded input to guide response tone.</li>
-  <li>🧮 <strong>Decision Forge</strong> – Fuses semantics + emotion to predict one of 18 cognitive action classes.</li>
-  <li>🗣️ <strong>Motor Output Interface</strong> – Converts predicted actions into intelligent, human-like responses.</li>
-</ul>
+<p align="center"><i>This visual blueprint shows how AnimaCore processes perception, emotion, reasoning, and action in an interconnected cognitive loop.</i></p>
+
+<p align="center">
+  🧾 The system starts by breaking down user input with <strong><code>bert-tiny</code></strong>, then understands its meaning through a <strong>Transformer Encoder</strong>.  
+  💡 An <strong>Emotion Reactor</strong> adds emotional context, while the <strong>Decision Forge</strong> selects the best response.  
+  🗣️ Finally, the <strong>Motor Output</strong> generates a natural, human-like reply.
+</p>
+
 
 </div>
 
@@ -257,7 +260,17 @@
 ---
 <br><h2 align="center">🔥 Bias Handling</h2><br>
 
-<p align="center"><em>Because true intelligence isn't just smart — it's fair.</em></p>
+<p align="center">
+  <em>Because true intelligence isn't just smart — it's fair.</em><br>
+  AnimaCore was trained on carefully curated, emotion-rich prompts with balanced representation across all 18 cognitive actions.  
+</p>
+
+<p align="center">
+  During training, bias mitigation strategies like label balancing and emotional variance checks were applied.<br>
+  This ensures that every prediction — whether it's comfort or command — is unbiased, inclusive, and empathetic.
+</p>
+
+<p align="center"><i>Fair AI isn't optional. It's fundamental.</i></p>
 
 ---
 
@@ -420,9 +433,6 @@ Thought: Responding wisely.
 <br><h2 align="center">📜 License</h2><br>
 
 <p align="center">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
-  </a>
   <a href="https://github.com/hamaylzahid/AnimaCore-HumanOS/commits/main">
     <img src="https://img.shields.io/github/last-commit/hamaylzahid/AnimaCore-HumanOS?color=blue" alt="Last Commit">
   </a>
