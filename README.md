@@ -36,21 +36,22 @@
 
 <h2>📖 Table of Contents</h2>
 
-<p align = "left">
-  • <a href="#-project-overview">🧠 Project Overview</a> • 
-  <a href="#-core-objectives">🎯 Core Objectives</a> • 
-  <a href="#-biological-inspiration">🧬 Biological Inspiration</a> • 
-  <a href="#️-system-architecture">🛠️ System Architecture</a> • 
-  <a href="#-training-workflow">🧪 Training Workflow</a> • 
-  <a href="#-evaluation--metrics">📊 Evaluation & Metrics</a> • 
-  <a href="#-bias-handling">🔥 Bias Handling</a> • 
-  <a href="#-setup--installation">⚙️ Setup & Installation</a> • 
-  <a href="#-concepts-covered">📚 Concepts Covered</a> • 
-  <a href="#-libraries--tools">💼 Libraries & Tools</a> • 
-  <a href="#-acknowledgments">🙏 Acknowledgments</a> • 
-  <a href="#-contact--contribution">🤝 Contact & Contribution</a> • 
-  <a href="#-license">📜 License</a>
-</p>
+
+- 🧠 [Project Overview](#-project-overview)
+- 🎯 [Core Objectives](#-core-objectives)
+- 🧬 [Biological Inspiration](#-biological-inspiration)
+- 🛠️ [System Architecture](#️-system-architecture)
+- 🧪 [Training Workflow](#-training-workflow)
+- 📊 [Evaluation & Metrics](#-evaluation--metrics)
+- 🔥 [Bias Handling](#-bias-handling)
+- ⚙️ [Setup & Installation](#️-setup--installation)
+
+- 🙏 [Acknowledgments](#-acknowledgments)
+- 💼 [Libraries & Tools](#-libraries--tools)
+- 🤝 [Contact & Contribution](#-contact--contribution)
+- 📜 [License](#-license)
+
+---
 
 <br>
 
@@ -266,6 +267,7 @@
 
 ## ⚙️ Setup & Installation
 
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/hamaylzahid/AnimaCore-HumanOS.git
@@ -343,20 +345,24 @@ Thought: Responding wisely.
 
 
 ---
-<br><h2 align="center">🙏 Acknowledgments</h2><br>
+<h2 align="center">🙏 Acknowledgments</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenSource-AI%20Communities-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Neuroscience-Inspiration-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97%20Transformers-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-%F0%9F%94%A5%20Framework-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mentors-Guidance-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Science-Public%20Access-lightgrey?style=flat-square" />
+  This project was shaped by the collective brilliance of:
 </p>
 
+<ul align="center">
+  <li>🤝 Open-source AI communities who make innovation accessible</li>
+  <li>🧠 Neuroscience pioneers whose research inspired our design</li>
+  <li>📚 HuggingFace & PyTorch for enabling modern deep learning</li>
+  <li>👨‍🏫 Mentors and educators for their wisdom and guidance</li>
+  <li>🌐 Open science platforms that fuel collaboration and discovery</li>
+</ul>
+
 <p align="center">
-  <i>💡 “Inspired by the human brain. Powered by open knowledge.”</i>
+  <em>💡 “Inspired by the human brain. Powered by open knowledge.”</em>
 </p>
+
 
 
  ---
